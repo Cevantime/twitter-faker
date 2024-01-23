@@ -1,0 +1,17 @@
+{
+    "name": "cevantime/optmysql",
+    "require": {
+        "fakerphp/faker": "^1.23"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cevantime\\Optmysql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cevantime",
+            "email": "thibaulttruffert@hotmail.com"
+        }
+    ]
+}
